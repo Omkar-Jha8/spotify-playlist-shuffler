@@ -30,6 +30,6 @@ A simple **web app built with Python and Streamlit** that lets you:
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/spotify-playlist-shuffler.git
+git clone https://github.com/omkar-jha8/spotify-playlist-shuffler.git
 cd spotify-playlist-shuffler
  
